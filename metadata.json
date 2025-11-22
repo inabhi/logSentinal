@@ -1,0 +1,5 @@
+{
+  "name": "LogSentinal AI",
+  "description": "An intelligent log analysis tool that diagnoses node issues, distinguishing between configuration errors and code bugs, and suggesting patches.",
+  "requestFramePermissions": []
+}
